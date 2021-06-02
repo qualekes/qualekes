@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qualekes
 - 👀 I’m interested in Web Development and Digital Marketing
-- 🌱 I’m currently learning ... Javascript and Wordpress
+- 🌱 I’m currently learning ... React and Wordpress
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ...  squaleke@yahoo.com
 
